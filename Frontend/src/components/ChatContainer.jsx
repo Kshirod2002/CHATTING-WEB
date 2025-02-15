@@ -7,7 +7,7 @@ import socketIOClient from 'socket.io-client'
 
 const ChatContainer = () => {
     const [user, setUser] = useState(localStorage.getItem('user'))
-    const socketio = socketIOClient('http://localhost:8080')
+    const socketio = socketIOClient('https://chatting-web-ba.onrender.com')
     const [chats, setChats] = useState([]);
     
 
