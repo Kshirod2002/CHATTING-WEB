@@ -51,3 +51,7 @@ npm run dev
 
 ** Demo **
 Link:- https://chatting-web-frontend.onrender.com
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/a7acb72d-4bb1-4399-b9f0-5f2140a7890c)
+![Image](https://github.com/user-attachments/assets/1d44f05f-a397-4cd3-9681-ecd37526aa7e)
