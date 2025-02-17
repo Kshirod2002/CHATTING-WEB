@@ -33,12 +33,6 @@ Real-time Communication: Socket.io
 #Backend Setup
 cd server
 
-**Create a .env file and configure the following environment variables**:
-
-PORT = 8080
-
-URI = mongodb+srv://swain:swa123@cluster0.abf3h.mongodb.net/chatweb
-
 **Run the backend server**:
 node server.js
 
